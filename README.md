@@ -184,7 +184,6 @@ FIN сканирование - TCP [RST, ACK] (порт закрыт)
 Xmas сканирование - TCP [RST, ACK] (порт закрыт)
 UDP сканированиt - ICMP пакетами с кодом ошибок (порт закрыт) или UDP пакетом (порт открыт).
 
-```
 ![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-1.png)
 ![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-2.png)
 ![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-3.png)
