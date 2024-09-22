@@ -179,7 +179,16 @@ Nmap done: 1 IP address (1 host up) scanned in 35.26 seconds
 
 Как отвечает сервер?
 
-SYN сканирование - TCP [SYN, ACK] (порт открыт) [RST, ACK], [RST] (порт закрыт) 
+SYN сканирование - TCP [SYN] (порт открыт) [RST, ACK] (порт закрыт) 
 FIN сканирование - TCP [RST, ACK] (порт закрыт)
 Xmas сканирование - TCP [RST, ACK] (порт закрыт)
-UDP сканированиt - ICMP пакетами с кодом ошибок (порт закрыт) или UDP пакетом (порт открыт). 
+UDP сканированиt - ICMP пакетами с кодом ошибок (порт закрыт) или UDP пакетом (порт открыт).
+
+```
+![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-1.png)
+![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-2.png)
+![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-3.png)
+![alt text](https://github.com/IvanOzhigov/13-01-hw/blob/main/2-4.png)
+
+
+
